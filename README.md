@@ -13,6 +13,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### August
 
+ - [How long does it take to rank in Google?](https://ahrefs.com/blog/how-long-does-it-take-to-rank/)
+
  - [Link Building Case Study: How We Built Backlinks With a ‘Stats’ Page (And Ranked #1)](https://ahrefs.com/blog/link-building-case-study/)
 
 
