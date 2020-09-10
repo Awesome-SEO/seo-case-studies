@@ -6,6 +6,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### September
 
+ - [How to Choose Google My Business Categories](https://moz.com/blog/how-to-choose-google-my-business-categories)
+
  - [Shorter Content Earns the Most Backlinks](https://www.searchenginejournal.com/shorter-content-earns-the-most-backlinks-study-says/380267/)
 
 
