@@ -6,6 +6,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### September
 
+ - [Google Entity Carousels: How to Earn Your Spot](https://wordlift.io/blog/en/google-entity-carousels-how-to-earn-the-spot)
+
  - [How to Choose Google My Business Categories](https://moz.com/blog/how-to-choose-google-my-business-categories)
 
  - [Shorter Content Earns the Most Backlinks](https://www.searchenginejournal.com/shorter-content-earns-the-most-backlinks-study-says/380267/)
