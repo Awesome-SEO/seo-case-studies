@@ -6,6 +6,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### September
 
+ - [We Surveyed 1,400 Searchers About Google - Here's What We Learned](https://moz.com/blog/new-google-survey-results)
+
  - [Updating Content for SEO: How to Teach Your Old Blog New Tricks](https://www.orbitmedia.com/blog/update-old-blog-posts/)
 
  - [Google Entity Carousels: How to Earn Your Spot](https://wordlift.io/blog/en/google-entity-carousels-how-to-earn-the-spot)
