@@ -6,8 +6,6 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### September
 
- - [We Surveyed 1,400 Searchers About Google - Here's What We Learned](https://moz.com/blog/new-google-survey-results)
-
  - [Updating Content for SEO: How to Teach Your Old Blog New Tricks](https://www.orbitmedia.com/blog/update-old-blog-posts/)
 
  - [Google Entity Carousels: How to Earn Your Spot](https://wordlift.io/blog/en/google-entity-carousels-how-to-earn-the-spot)
@@ -19,6 +17,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### August
 
+ - [How to Optimize for Google’s Featured Snippets in 2020](https://ahrefs.com/blog/find-featured-snippets/)
+
  - [An Hreflang Implementation Guide: How to add and Implement Hreflang Tags](https://www.aleydasolis.com/en/search-engine-optimization/avoiding-hreflang-issues-by-following-a-6-steps-implementation-process/)
 
  - [How long does it take to rank in Google?](https://ahrefs.com/blog/how-long-does-it-take-to-rank/)
@@ -29,3 +29,10 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 ### July
 
  - [How Ahrefs does SEO: 7 unconventional lessons in product-led content marketing](https://supermetrics.com/blog/ahrefs-product-led-content-marketing-and-seo)
+
+
+## 2019
+
+### April
+
+ - [We Surveyed 1,400 Searchers About Google - Here's What We Learned](https://moz.com/blog/new-google-survey-results)
