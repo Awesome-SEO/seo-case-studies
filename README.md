@@ -6,6 +6,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### September
 
+ - [Long Term Shared Hosting Experiment](https://www.rebootonline.com/blog/long-term-shared-hosting-experiment/) - Dedicated IPs Outrank Sites on Shared Hosting With Bad Neighbourhood Websites
+
  - [Updating Content for SEO: How to Teach Your Old Blog New Tricks](https://www.orbitmedia.com/blog/update-old-blog-posts/)
 
  - [Google Entity Carousels: How to Earn Your Spot](https://wordlift.io/blog/en/google-entity-carousels-how-to-earn-the-spot)
