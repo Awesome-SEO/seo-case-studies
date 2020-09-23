@@ -6,6 +6,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### September
 
+ - [Study: How Often Google Ignores Our Meta Descriptions](https://www.portent.com/blog/seo/how-often-google-ignores-our-meta-descriptions.htm)
+
  - [Long Term Shared Hosting Experiment](https://www.rebootonline.com/blog/long-term-shared-hosting-experiment/) - Dedicated IPs Outrank Sites on Shared Hosting With Bad Neighbourhood Websites
 
  - [Updating Content for SEO: How to Teach Your Old Blog New Tricks](https://www.orbitmedia.com/blog/update-old-blog-posts/)
