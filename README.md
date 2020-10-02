@@ -2,9 +2,12 @@
 
 This is a curated list of awesome SEO case-studies. For contributions please check [this](https://github.com/awesome-seo-tools/seo-case-study/blob/master/CONTRIBUTIONS.md).
 
+
 ## 2020
 
 ### September
+
+ - [Google Rewrites Meta Descriptions Over 70% of the Time](https://www.searchenginejournal.com/google-rewrites-meta-descriptions-over-70-of-the-time/382140/#close)
 
  - [The SaaS Website Content You Need to Close Sales](https://www.mikesonders.com/saas-website-content/)
 
