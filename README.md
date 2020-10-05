@@ -5,7 +5,20 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ## 2020
 
+### Oktober
+
+ - [State of Pagination in eCommerce: Case Study & Analysis of the Top 150 UK Fashion Retailers](https://www.deepcrawl.com/blog/best-practice/state-of-pagination-in-ecommerce/)
+
+
 ### September
+
+ - [How to Rank in ‘People Also Ask’ Boxes and If You Should](https://ahrefs.com/blog/people-also-ask/)
+
+ - [How to Maximize ‘People Also Ask’ SEO Opportunities](https://www.semrush.com/blog/how-to-maximize-people-also-ask-seo-opportunities-study/)
+
+ - [A Closer Look at Page Title Length](https://www.upbuild.io/blog/page-title-length/)
+
+ - [SEO Split-Testing Lessons from SearchPilot: Emoji in Meta Descriptions](https://www.searchpilot.com/resources/case-studies/seo-split-test-lessons-emoji-meta-descriptions/)
 
  - [Google Rewrites Meta Descriptions Over 70% of the Time](https://www.searchenginejournal.com/google-rewrites-meta-descriptions-over-70-of-the-time/382140/#close)
 
