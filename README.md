@@ -7,6 +7,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### Oktober
 
+ - [Study: Comparing the data from 8 SEO tools](https://searchengineland.com/study-comparing-the-data-from-8-seo-tools-341236)
+
  - [State of Pagination in eCommerce: Case Study & Analysis of the Top 150 UK Fashion Retailers](https://www.deepcrawl.com/blog/best-practice/state-of-pagination-in-ecommerce/)
 
 
