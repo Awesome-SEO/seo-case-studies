@@ -1,6 +1,6 @@
 # SEO Case Studies [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This is a curated list of awesome SEO case-studies. For contributions please check [this](https://github.com/Awesome-SEO/seo-case-study/blob/master/CONTRIBUTIONS.md).
+This is a curated list of awesome SEO case-studies. For contributions please check [this](https://github.com/Awesome-SEO/seo-case-study/blob/main/CONTRIBUTIONS.md).
 
 
 ## 2020
