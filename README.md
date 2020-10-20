@@ -7,6 +7,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### Oktober
 
+ - [How Pinterest runs Traffic-based Interlinking experiments for SEO](https://medium.com/pinterest-engineering/how-pinterest-runs-traffic-based-interlinking-experiments-for-seo-9cb2cbdba6f8)
+
  - ["Powered by" - An Acquisition Channel Nobody is Talking About](https://zerotousers.substack.com/p/how-43-founders-got-their-first-users)
 
  - [Study: Comparing the data from 8 SEO tools](https://searchengineland.com/study-comparing-the-data-from-8-seo-tools-341236)
