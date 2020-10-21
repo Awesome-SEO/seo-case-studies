@@ -7,6 +7,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### Oktober
 
+ - [How to Maximize your Pages CTR in Search Results Besides Improving your Rankings](https://www.aleydasolis.com/en/search-engine-optimization/improving-pages-ctr-search-results/)
+
  - [How Pinterest runs Traffic-based Interlinking experiments for SEO](https://medium.com/pinterest-engineering/how-pinterest-runs-traffic-based-interlinking-experiments-for-seo-9cb2cbdba6f8)
 
  - ["Powered by" - An Acquisition Channel Nobody is Talking About](https://zerotousers.substack.com/p/how-43-founders-got-their-first-users)
