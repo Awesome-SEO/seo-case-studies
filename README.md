@@ -7,6 +7,8 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### Oktober
 
+ - [Core Web Vitals: The Global Publications Set to Be Hit by Google’s Latest Update](https://www.impression.co.uk/blog/core-web-vitals-study-global-publications/)
+
  - [Grammarly’s Marketing Strategy: Growing to 20+ Million Users via Content Marketing](https://victoreduoh.com/grammarlys-marketing-strategy/)
 
  - [How to Maximize your Pages CTR in Search Results Besides Improving your Rankings](https://www.aleydasolis.com/en/search-engine-optimization/improving-pages-ctr-search-results/)
