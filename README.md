@@ -5,6 +5,11 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ## 2020
 
+### November
+
+ - [How I created a Topic Cluster and boosted my website traffic by 1000%](https://samuelschmitt.com/topic-cluster/amp/)
+
+
 ### Oktober
 
  - [Core Web Vitals: The Global Publications Set to Be Hit by Google’s Latest Update](https://www.impression.co.uk/blog/core-web-vitals-study-global-publications/)
