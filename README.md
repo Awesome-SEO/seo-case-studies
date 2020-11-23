@@ -7,6 +7,10 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 
 ### November
 
+ - [Will Google Read All the Text From a Title That Is Too Long?](https://pageoptimizer.pro/will-google-read-all-the-text-from-a-title-that-is-too-long/)
+
+ - [SEO Split-Testing Lessons: Forcing Google to Respect Meta Descriptions](https://www.searchpilot.com/resources/case-studies/seo-split-test-lessons-forcing-google-respect-meta-descriptions-data-nosnippet/)
+
  - [How I created a Topic Cluster and boosted my website traffic by 1000%](https://samuelschmitt.com/topic-cluster/amp/)
 
 
