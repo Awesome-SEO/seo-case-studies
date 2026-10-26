@@ -86,3 +86,4 @@ This is a curated list of awesome SEO case-studies. For contributions please che
 ### February
 
  - [How to Build Links (Quickly) Using Images](http://www.staceymacnaught.co.uk/image-link-building/)
+ - [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
